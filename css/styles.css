@@ -7,7 +7,7 @@ body {
 
 /* HEADER */
 #header-nav {
-	background-color: #ff9900;
+	background-color: #ff9900 !important;
 	border-radius: 0;
 	border: 0;
 	color: white;
